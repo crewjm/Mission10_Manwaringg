@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 
 using System.ComponentModel.DataAnnotations;
 
-namespace Mission10_Manwaringg.Data 
+namespace BowlingLeague.Data 
 {
     public class BowlerDbContext : DbContext
     {

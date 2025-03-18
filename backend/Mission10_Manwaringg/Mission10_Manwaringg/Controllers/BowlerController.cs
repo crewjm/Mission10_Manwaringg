@@ -1,4 +1,4 @@
-using Mission10_Manwaringg.Data;
+using BowlingLeague.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

@@ -1,4 +1,4 @@
-using BowlingLeague.Data;
+using Mission10_Manwaringg.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -24,7 +24,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors(x => x.WithOrigins("http://localhost:3000"));
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthorization();
 

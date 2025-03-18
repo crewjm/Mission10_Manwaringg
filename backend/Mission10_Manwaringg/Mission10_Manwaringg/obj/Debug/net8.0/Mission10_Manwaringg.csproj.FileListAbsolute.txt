@@ -156,3 +156,4 @@
 /Users/crewmanwaring/RiderProjects/Mission10_Manwaringg/backend/Mission10_Manwaringg/Mission10_Manwaringg/obj/Debug/net8.0/Mission10_Manwaringg.pdb
 /Users/crewmanwaring/RiderProjects/Mission10_Manwaringg/backend/Mission10_Manwaringg/Mission10_Manwaringg/obj/Debug/net8.0/Mission10_Manwaringg.genruntimeconfig.cache
 /Users/crewmanwaring/RiderProjects/Mission10_Manwaringg/backend/Mission10_Manwaringg/Mission10_Manwaringg/obj/Debug/net8.0/ref/Mission10_Manwaringg.dll
+/Users/crewmanwaring/RiderProjects/Mission10_Manwaringg/backend/Mission10_Manwaringg/Mission10_Manwaringg/obj/Debug/net8.0/Mission10_Manwaringg.sourcelink.json

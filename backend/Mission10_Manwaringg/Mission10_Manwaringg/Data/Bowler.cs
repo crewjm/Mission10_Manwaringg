@@ -11,7 +11,7 @@ public class Bowler
     [Required]
     public string BowlerLastName { get; set; } = string.Empty;
 
-    public string? BowlerMiddleName { get; set; }
+    public string? BowlerMiddleInit { get; set; }
 
     [Required]
     public int TeamID { get; set; }

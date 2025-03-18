@@ -23,7 +23,7 @@ public class BowlerController : ControllerBase
             {
                 b.BowlerId,
                 b.BowlerFirstName,
-                b.BowlerMiddleName,
+                b.BowlerMiddleInit,
                 b.BowlerLastName,
                 b.BowlerAddress,
                 b.BowlerCity,

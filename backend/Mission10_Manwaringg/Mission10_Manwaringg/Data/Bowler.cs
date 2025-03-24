@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 
 public class Bowler
+//specifics on id's and whether or not strings required
 {
     [Key]
     public int BowlerId { get; set; }
@@ -24,9 +25,12 @@ public class Bowler
 
     public string? BowlerZip { get; set; }
     
+    public string? BowlerPhoneNumber { get; set; }
+    
     public Team? Team { get; set; }
 }
 
+//team class
 public class Team
 {
     [Key]

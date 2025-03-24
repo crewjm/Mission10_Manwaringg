@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission10_Manwaringg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1947dfa6e565c38267081c62bb524a4d841ecee0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d5484bf53db09ba4bb6c514090c5ef20767d79")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission10_Manwaringg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission10_Manwaringg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

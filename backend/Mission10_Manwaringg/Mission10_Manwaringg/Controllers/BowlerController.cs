@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 
 [Route("[controller]")]
 [ApiController]
+
+//public bowler controller class
 public class BowlerController : ControllerBase
 {
     private readonly BowlerDbContext _context;
@@ -13,6 +15,7 @@ public class BowlerController : ControllerBase
         _context = context;
     }
 
+    // GET clause using http and all of the database info
     [HttpGet(Name = "GetBowler")]
     public async Task<IActionResult> Get()
     {
@@ -29,6 +32,7 @@ public class BowlerController : ControllerBase
                 b.BowlerCity,
                 b.BowlerState, 
                 b.BowlerZip,
+                b.BowlerPhoneNumber,
                 TeamName = b.Team != null ? b.Team.TeamName : "No Team"
             })
             .ToListAsync();

@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 
 using System.ComponentModel.DataAnnotations;
-
+//db context file to reference database
 namespace BowlingLeague.Data 
 {
     public class BowlerDbContext : DbContext
